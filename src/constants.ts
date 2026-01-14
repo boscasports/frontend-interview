@@ -5,7 +5,7 @@ export const raceIds = [
 ];
 
 export const API_BASE_URL = 'https://eu-staging.podium.boscasports.com';
-export const API_RACES_PATH = '/api/v1/races'; // Append race ID to this path
+export const API_RACES_PATH = '/horse/race'; // Append race ID to this path
 
 export const API_KEY = ''; // Conor will provide API key
 export const API_KEY_HEADER = 'X-PODIUM-APIKEY';
